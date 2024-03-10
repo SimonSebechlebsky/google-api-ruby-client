@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+require 'pathname'
 require 'google/apis/core/api_command'
 require 'google/apis/errors'
 require 'addressable/uri'
